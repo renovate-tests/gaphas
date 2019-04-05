@@ -7,5 +7,5 @@ pytest==4.0.1
 pytest-cov==2.6.0
 coverage==4.5.2
 PyGObject>=3.30.3
-coveralls==1.5.1
+coveralls==1.7.0
 pre-commit==1.13.0
