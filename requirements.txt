@@ -3,7 +3,7 @@ future==0.17.1
 pycairo>=1.11.1
 setuptools-git==1.2
 simplegeneric==0.8.1
-pytest==4.0.1
+pytest==4.4.0
 pytest-cov==2.6.0
 coverage==4.5.2
 PyGObject>=3.30.3
